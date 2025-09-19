@@ -5,7 +5,7 @@ This project is fully configured for one-click deployment on Netlify.
 ## 🚀 Quick Deploy (One-Click)
 
 ### Option 1: Deploy to Netlify Button
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/scout-event)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rafi0020/scout-event)
 
 ### Option 2: Manual Deploy
 1. **Fork this repository** to your GitHub account

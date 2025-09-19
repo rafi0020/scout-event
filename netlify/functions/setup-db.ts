@@ -1,6 +1,12 @@
 import { PrismaClient } from '@prisma/client'
 
-const prisma = new PrismaClient()
+const prisma = new PrismaClient({
+  datasources: {
+    db: {
+      url: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_h3umxSOpYsQ7@ep-damp-recipe-adjhdmcz-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+    }
+  }
+})
 
 export const handler = async (event, context) => {
   // Only allow POST requests
