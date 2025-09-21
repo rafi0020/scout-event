@@ -236,9 +236,3 @@ This is an educational project for Scout training centers. Contributions that en
 ## 📄 License
 
 Created for Bangladesh Scout Training Centers - Educational Use
-
----
-
-**Always Works™** - Built with comprehensive testing and validation to ensure reliable operation during events.# scout-event
-# scout-event
-# scout-event
